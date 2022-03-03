@@ -26,3 +26,6 @@ is already valid Typescript code.
 In order to convert Typescript into Javascript (code.ts ---> code.js), you could run the watch script provided in the packaje.json
 
 npm run watch
+
+Based on: https://www.youtube.com/watch?v=3rT4tHsbC1k&t=602s&ab_channel=JordanGeizer
+Be aware that if you run the plugin multiple times you will create an infinite number of pages.
